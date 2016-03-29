@@ -1,2 +1,2 @@
 # barcode
-Generating Barcode with WPF &amp; C#
+Generating Barcode with C#
