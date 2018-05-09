@@ -16,7 +16,7 @@ namespace BarCodeExample
             InitializeComponent();
 
             //Creating Barcode with a dummy product code. Note: You can customize accordint to your needs.
-            string productCode = "ABC123456";
+            string productCode = "ABC1234567";
             CreateBarCode(productCode);
         }
 
